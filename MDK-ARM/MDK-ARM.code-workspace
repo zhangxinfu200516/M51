@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "config.h": "c",
+            "limits": "cpp"
+        }
+    },
+    "extensions": {}
+}
